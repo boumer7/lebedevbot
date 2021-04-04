@@ -14,7 +14,7 @@
 https://github.com/boumer7/lebedevbot
 ```
 
-Открой консоль в папке с картинками и напишите:
+Откройте консоль в папке с картинками и напишите:
 
 ```console
 pip install -r requirements.txt
@@ -31,7 +31,7 @@ client.run('ваш токен')
 Вы можете создать токен для своего бота <a href="https://discord.com/developers/applications">здесь</a>.
 
 
-Далее:
+Далее запустите бота, открыв run.cmd, либо:
 
 ```console
 python lebedev.py
