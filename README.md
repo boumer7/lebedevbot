@@ -31,7 +31,7 @@ client.run('ваш токен')
 Вы можете создать токен для своего бота <a href="https://discord.com/developers/applications">здесь</a>.
 
 
-Далее запустите бота, открыв run.cmd, либо:
+Далее запустите бота, открыв **run.cmd**, либо:
 
 ```console
 python lebedev.py
